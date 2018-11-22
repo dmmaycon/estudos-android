@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Compara Tampa</string>
-    <string name="btnFoto">Tirar Foto</string>
-    <string name="txtResultado">TEXTO RECONHECIDO</string>
+    <string name="btnFoto">Foto Texto</string>
+    <string name="btnFoto2">Foto DataMatrix</string>
+    <string name="txtResultado">Texto OCR</string>
+    <string name="txtDataMatrix">Texto Data Matrix</string>
+    <string name="txtFinal">Resultado</string>
     <string name="btnProcess">Processar</string>
 </resources>
