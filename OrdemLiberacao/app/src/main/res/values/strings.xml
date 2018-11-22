@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ordem de Liberacao</string>
+    <string name="btnLoad">Carregar</string>
+</resources>
